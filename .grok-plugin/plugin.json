@@ -1,0 +1,9 @@
+{
+  "name": "attentionwatch",
+  "version": "1.0.0",
+  "description": "Read-only AI Product and Launch discovery, organic Trending, public Offers, and labeled paid Market history.",
+  "author": { "name": "Montorox LLC", "url": "https://attentionwatch.com" },
+  "homepage": "https://attentionwatch.com",
+  "license": "MIT",
+  "keywords": ["attentionwatch", "attention watch", "attentionwatch ai", "attentionwatch products"]
+}
